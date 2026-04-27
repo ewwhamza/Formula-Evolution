@@ -1,4 +1,4 @@
-# NeuroApex F1 🏎️ 🧠
+# Formula Evolution 🏎️ 🧠
 
 An interactive, 2D autonomous racing simulator where neural networks learn to drive from scratch using Reinforcement Learning concepts and the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm. 
 
