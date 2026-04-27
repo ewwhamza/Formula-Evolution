@@ -18,9 +18,3 @@ Instead of pre-training a model on a dataset, this project spawns generations of
 * **Pygame:** Engine for 2D physics, rendering, and dynamic surface masking.
 * **neat-python:** Core library handling the genetic algorithms and neural network topology creation.
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/neuroapex-f1.git](https://github.com/yourusername/neuroapex-f1.git)
-   cd neuroapex-f1
